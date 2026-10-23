@@ -1,0 +1,5 @@
+Cornwall Coastal Atlas - GitHub connector test
+
+Created directly from ChatGPT on 2026-10-23.
+Purpose: verify repository write access and commit creation.
+No existing project files were modified.
